@@ -1,5 +1,5 @@
 # scraper
-Author: Brendan Jennings
+
 
 What is it?
 
